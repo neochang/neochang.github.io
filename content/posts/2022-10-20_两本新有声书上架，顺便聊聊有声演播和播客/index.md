@@ -2,6 +2,13 @@
 title: "两本新有声书上架，顺便聊聊有声演播和播客"
 date: 2022-10-27T20:00:00+08:00
 draft: false
+featured_image: '题图：拉布拉多录音.jpg'
+categories:
+- "我思故我在"
+- "有声演播"
+tags:
+- "我思故我在"
+- "有声演播"
 ---
 
 [本文微信公众号传送门](https://mp.weixin.qq.com/s/NvP_pcr37hPNvPWtBpkV8Q)

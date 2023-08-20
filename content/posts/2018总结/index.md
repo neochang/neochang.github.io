@@ -2,6 +2,13 @@
 title: "2018总结-那些立过的Flag和打过的脸"
 date: 2018-12-25T23:04:23+08:00
 draft: false
+featured_image: 'cover.jpg'
+categories:
+- "我的记录片"
+- "终身学习"
+tags:
+- "我的记录片"
+- "终身学习"
 ---
 
 [点击这里去微信公众号阅读本文](https://mp.weixin.qq.com/s/Itb2esLpPMj2it4KKUNJDg)
